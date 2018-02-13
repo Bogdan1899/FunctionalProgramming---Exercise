@@ -1,1 +1,1 @@
-# FunctionalProgramming---Inferno
+# FunctionalProgramming---Exercise
